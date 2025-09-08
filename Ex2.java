@@ -5,7 +5,6 @@ public class Ex2 {
 	private int num1;
     private int num2;
 
-    // Getters e Setters
     public int getNum1() {
         return num1;
     }
@@ -40,3 +39,4 @@ public class Ex2 {
         }
     }
 }
+
